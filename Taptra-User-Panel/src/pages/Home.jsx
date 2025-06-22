@@ -1,3 +1,5 @@
+"homepage": "https://safayethossainsoikat.github.io/taptra-user-panel"
+
 import React from 'react';
 
 export default function Home() {
